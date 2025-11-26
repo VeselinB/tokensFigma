@@ -1,0 +1,76 @@
+{
+  "surface": {
+    "page": {
+      "$type": "color",
+      "$value": "{neutral.lightest}"
+    },
+    "primary": {
+      "$type": "color",
+      "$value": "{foundation.white}"
+    },
+    "action": {
+      "$type": "color",
+      "$value": "{primary.main}"
+    },
+    "information": {
+      "$type": "color",
+      "$value": "{information.light}"
+    },
+    "success": {
+      "$type": "color",
+      "$value": "{success.light}"
+    },
+    "warning": {
+      "$type": "color",
+      "$value": "{warning.light}"
+    },
+    "error": {
+      "$type": "color",
+      "$value": "{error.light}"
+    }
+  },
+  "border": {
+    "action": {
+      "$type": "color",
+      "$value": "{primary.main}"
+    },
+    "information": {
+      "$type": "color",
+      "$value": "{information.dark}"
+    },
+    "success": {
+      "$type": "color",
+      "$value": "{success.dark}"
+    },
+    "warning": {
+      "$type": "color",
+      "$value": "{warning.dark}"
+    },
+    "error": {
+      "$type": "color",
+      "$value": "{error.dark}"
+    },
+    "imput": {
+      "$type": "color",
+      "$value": "{neutral.lighter}"
+    }
+  },
+  "content": {
+    "headings": {
+      "$type": "color",
+      "$value": "{primary.main}"
+    },
+    "body": {
+      "$type": "color",
+      "$value": "{neutral.very-dark}"
+    },
+    "action": {
+      "$type": "color",
+      "$value": "{foundation.white}"
+    },
+    "disabled": {
+      "$type": "color",
+      "$value": "{neutral.dark}"
+    }
+  }
+}

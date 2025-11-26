@@ -1,0 +1,16 @@
+{
+  "tokenSetOrder": [
+    "primitives",
+    "brands/ems",
+    "brands/effortel",
+    "brands/tadaam",
+    "theme/ems-light",
+    "theme/ems-dark",
+    "theme/effortel-light",
+    "theme/effortel-dark",
+    "theme/tadaam-light",
+    "theme/tadaam-dark",
+    "responsive/desktop",
+    "responsive/tablet"
+  ]
+}

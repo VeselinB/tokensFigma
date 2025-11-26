@@ -1,0 +1,55 @@
+{
+  "screen-size": {
+    "$type": "sizing",
+    "$value": "1920",
+    "$description": "Desktop Screen "
+  },
+  "jumper": {
+    "widget-padding": {
+      "$type": "spacing",
+      "$value": "{spacing.md}",
+      "$description": "Top, bottom, left and right padding in the widget"
+    },
+    "group-gap": {
+      "$type": "spacing",
+      "$value": "{spacing.lg}",
+      "$description": "Gap between two components in group (buttons, widgets, ..."
+    },
+    "page-padding": {
+      "$type": "spacing",
+      "$value": "{spacing.md}"
+    }
+  },
+  "Headings": {
+    "xl": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{primary}",
+        "fontSize": "{xl}",
+        "fontWeight": "Regular"
+      }
+    }
+  },
+  "Labels": {
+    "md": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{primary}",
+        "fontWeight": "Regular"
+      }
+    }
+  },
+  "Paragraphs": {
+    "md": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{primary}",
+        "fontWeight": "Regular"
+      }
+    }
+  },
+  "xl": {
+    "$type": "fontSizes",
+    "$value": "24"
+  }
+}
