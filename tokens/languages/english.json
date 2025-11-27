@@ -1,0 +1,17 @@
+{
+  "button-label": {
+    "$type": "text",
+    "$value": "Click me",
+    "$description": "Button label English"
+  },
+  "title": {
+    "$type": "text",
+    "$value": "This is a Title",
+    "$description": "Title in English"
+  },
+  "imput": {
+    "$type": "text",
+    "$value": "Please enter your ...",
+    "$description": "Imput English"
+  }
+}

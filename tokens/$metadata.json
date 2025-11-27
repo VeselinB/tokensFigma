@@ -1,6 +1,6 @@
 {
   "tokenSetOrder": [
-    "primitives",
+    "primitives/all",
     "brands/ems",
     "brands/effortel",
     "brands/tadaam",
@@ -11,6 +11,8 @@
     "theme/tadaam-light",
     "theme/tadaam-dark",
     "responsive/desktop",
-    "responsive/tablet"
+    "responsive/tablet",
+    "languages/english",
+    "languages/russian"
   ]
 }

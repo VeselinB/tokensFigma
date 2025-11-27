@@ -1,0 +1,17 @@
+{
+  "button-label": {
+    "$type": "text",
+    "$value": "Нажми на меня",
+    "$description": "Button label Russian"
+  },
+  "title": {
+    "$type": "text",
+    "$value": "Это заголовок",
+    "$description": "Title in Russian"
+  },
+  "imput": {
+    "$type": "text",
+    "$value": "Пожалуйста, введите Ваш ...",
+    "$description": "Imput Russian"
+  }
+}
